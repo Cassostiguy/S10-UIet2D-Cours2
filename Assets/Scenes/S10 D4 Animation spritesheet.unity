@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 30136830}
   - component: {fileID: 30136829}
   m_Layer: 0
-  m_Name: spritesheet_players_53
+  m_Name: alienVert
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1583,7 +1583,7 @@ GameObject:
   - component: {fileID: 1713469009}
   - component: {fileID: 1713469008}
   m_Layer: 0
-  m_Name: spritesheet_items_19
+  m_Name: drapeauBleu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
